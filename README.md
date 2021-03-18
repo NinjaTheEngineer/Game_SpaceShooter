@@ -1,4 +1,3 @@
-# Games
-Games
+# Space Shooter Game
 
-Unity Games done by Alexandre Coutinho
+Space Shooter game, made with Unity
